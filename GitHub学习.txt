@@ -1,6 +1,6 @@
 
 
-1、入到D盘-我的图片-images
+1、入到D盘myGitHub
 
 2、命令3步曲
    a、git add .\文件名
