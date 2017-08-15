@@ -1,0 +1,12 @@
+
+
+1、入到D盘-我的图片-images
+
+2、命令3步曲
+   a、git add .\文件名
+ 
+   b、git commit -m "描述"
+
+   c、git push
+
+	P.S. 删除文件 git rm .\文件名
